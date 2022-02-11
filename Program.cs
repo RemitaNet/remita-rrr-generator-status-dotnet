@@ -54,9 +54,6 @@ namespace RemitaGenRRRStatus
             string apiHashString = merchantId + serviceTypeId + orderId + amount + apiKey;
             string apiHash = WebClientUtil.SHA512(apiHashString);
 
-            Console.WriteLine("+++ orderId: " + orderId);
-            Console.WriteLine("+++ apiHash: " + apiHash);
-
             _header = new Headers();
             headers = new List<Header>();
             headers.Add(new Header { header = "Content-Type", value = "application/json" });

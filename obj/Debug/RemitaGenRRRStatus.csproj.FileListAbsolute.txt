@@ -1,6 +1,6 @@
-C:\Projects\remita-rrr-generator-status-dotnet\bin\Debug\RITNetSdkDemo.exe
-C:\Projects\remita-rrr-generator-status-dotnet\bin\Debug\RITNetSdkDemo.pdb
+C:\Projects\remita-rrr-generator-status-dotnet\bin\Debug\RemitaGenRRRStatus.exe
+C:\Projects\remita-rrr-generator-status-dotnet\bin\Debug\RemitaGenRRRStatus.pdb
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.CoreCompileInputs.cache
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.CopyComplete
-C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RITNetSdkDemo.exe
-C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RITNetSdkDemo.pdb
+C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.exe
+C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.pdb

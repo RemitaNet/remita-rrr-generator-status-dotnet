@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EACB1871-F45B-4E67-9F0D-72B493ED3C58}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RITNetSdkDemo</RootNamespace>
-    <AssemblyName>RITNetSdkDemo</AssemblyName>
+    <RootNamespace>RemitaGenRRRStatus</RootNamespace>
+    <AssemblyName>RemitaGenRRRStatus</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

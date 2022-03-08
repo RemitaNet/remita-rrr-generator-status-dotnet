@@ -87,7 +87,7 @@ namespace RemitaGenRRRStatus
             string apiKey = "1946";
             string rrr = "310008256982";
             string apiHash = WebClientUtil.SHA512(rrr + apiKey + merchantId);
-            string rrrStatusPath = "/remita/ecomm/" + merchantId + "/" + rrr + "/" + apiHash + "/status.reg";
+            string rrrStatusPath = "/remita/exapp/api/v1/send/api/echannelsvc/" + merchantId + "/" + rrr + "/" + apiHash + "/status.reg";
 
             _header = new Headers();
             headers = new List<Header>();

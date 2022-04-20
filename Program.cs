@@ -6,9 +6,7 @@ using static RemitaGenRRRStatus.WebClientUtil;
 
 namespace RemitaGenRRRStatus
 {
-    /// <summary>
-    /// 
-    /// </summary>
+ 
     public class RemitaGenRRRStatus
     {
         public static string DEMO = "https://remitademo.net";
@@ -61,7 +59,7 @@ namespace RemitaGenRRRStatus
             _header.headers = headers;
 
             GenerateRRRRequest generateRRRRequest = new GenerateRRRRequest();
-            generateRRRRequest.serviceTypeId = "4430731";
+            generateRRRRequest.serviceTypeId = serviceTypeId;
             generateRRRRequest.amount = amount;
             generateRRRRequest.orderId = orderId;
             generateRRRRequest.payerName = "Michelle Alozie";

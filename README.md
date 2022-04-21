@@ -83,6 +83,15 @@ namespace RemitaGenRRRStatus
             generateRRRRequest.payerEmail = "alozie@systemspecs.com.ng";
             generateRRRRequest.payerPhone = "09062067384";
             generateRRRRequest.description = "payment for Donation 3";
+
+            List<CustomField> customFields = new List<CustomField>();
+            CustomField customField1 = new CustomField();
+            customField1.name = "Customer Bill Account Number";
+            customField1.value = "";
+            customField1.type = "ALL";
+            customFields.Add(customField1);
+            generateRRRRequest.customFields = customFields;
+
             String jsonGenerateRRRRequest = JsonConvert.SerializeObject(generateRRRRequest);
             try
             {

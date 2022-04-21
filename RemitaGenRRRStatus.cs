@@ -21,5 +21,7 @@ namespace RemitaGenRRRStatus
         public string payerPhone;
 
         public string description;
+
+        public List<CustomField> customFields { get; set; }
     }
 }

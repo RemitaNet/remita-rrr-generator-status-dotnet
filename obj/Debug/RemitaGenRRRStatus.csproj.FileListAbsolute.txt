@@ -4,3 +4,4 @@ C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.cspr
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.CopyComplete
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.exe
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.pdb
+C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.AssemblyReference.cache

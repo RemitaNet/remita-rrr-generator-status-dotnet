@@ -1,15 +1,22 @@
 # Remita SDK for generating RRR and checking the status of RRR - .Net
 
-## Prerequisites
+---
+- [Installation/Usage](#Installation/Usage)
+- [Contributing](#Contributing)
+
+---
+
+## Installation/Usage
+#### Prerequisites
 The workflow to getting started on RITs is as follows:
 
 *  Register a profile on Remita: You can visit [Remita](https://login.remita.net) to sign-up if you are not already registered as a merchant/biller on the platform.
 *  Receive the Remita credentials that certify you as a Biller: Remita will send you your merchant ID and an API Key necessary to secure your handshake to the Remita platform.
-## Requirements
+#### Requirements
 *  Microsoft Visual Studio 
 * .NET 2.0 or later
 
-## Running the application
+#### Running the application
 *  Clone project, review and run:
    https://github.com/RemitaNet/remita-rrr-generator-status-dotnet/blob/main/Program.cs
 
@@ -139,10 +146,18 @@ namespace RemitaGenRRRStatus
 
 	
 ```
+---
+## Contributing
+- To contribute to this repo, follow these guidelines for creating issues, proposing new features, and submitting pull requests:
 
-## Useful links
-* Join our Slack Developer/Support channel at http://bit.ly/RemitaDevSlack
+1. Fork the repository.
+2. Create a new branch: `git checkout -b "feature-name"`
+3. Make your changes and commit: `git commit -m "added some new features"`
+4. Push your changes: `git push origin feature-name`
+5. Submit a Pull Request (PR).
+
+### Useful links
+* Join our [Slack](http://bit.ly/RemitaDevSlack) community and support channel 
     
-## Support
+### Support
 - For all other support needs, support@remita.net
-- To contribute to this repo, create an issue on what you intend to fix or update, make a PR and team will look into it and merge.

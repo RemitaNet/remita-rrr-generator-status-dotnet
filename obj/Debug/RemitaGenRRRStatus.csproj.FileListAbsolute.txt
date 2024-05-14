@@ -5,3 +5,11 @@ C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.cspr
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.exe
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.pdb
 C:\Projects\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.AssemblyReference.cache
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\bin\Debug\RemitaGenRRRStatus.exe.config
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\bin\Debug\RemitaGenRRRStatus.exe
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\bin\Debug\RemitaGenRRRStatus.pdb
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.AssemblyReference.cache
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.csproj.CoreCompileInputs.cache
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGe.741D5DDF.Up2Date
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.exe
+D:\code\RemitaSDKS\remita-rrr-generator-status-dotnet\obj\Debug\RemitaGenRRRStatus.pdb

@@ -33,7 +33,7 @@ namespace RemitaGenRRRStatus
  
     public class RemitaGenRRRStatus
     {
-        public static string DEMO = "https://remitademo.net";
+        public static string DEMO = "https://demo.remita.net";
         public static string LIVE = "https://login.remita.net";
        
         public static string GENERATE_RRR = "/remita/exapp/api/v1/send/api/echannelsvc/merchant/api/paymentinit";
